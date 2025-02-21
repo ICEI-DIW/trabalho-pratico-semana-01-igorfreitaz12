@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Igor Patrick Freitas da Silva
+Matricula: 877075
 
 ## Tela de inspeção com navegador
-
+![1](print1.jpg)
 
 ## Tela de projeto no Replit
-
+![2](print2.jpg)
